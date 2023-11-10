@@ -9,7 +9,7 @@
   "author": "Alin CHIS",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.6.0",
     "dotenv": "^8.2.0",
     "fs-extra": "^9.0.0"
   }
